@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi there 👋 
 
 
 **Allister-gitBeyond/Allister-gitBeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
+
+______________________________________________________________________________________________________________________________________________
+
+### Heres a little about my projects & interest
+
+<br>
 
 - 🔭 I’m currently working on ...
+
+  > Refracturing tetris arcade games built in
+  > 
+    >                                           JavaScript
+    >                                           HTML
+    >                                           CSS
+
+  <br><br>
+
 - 🌱 I’m currently learning ...
+
+  > Data Structures & algorithms at Princeton University via Cousera
+  >
+    >  ![image](https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/12/binary-code.jpg?resize=679%2C420&ssl=1)
+  
+  <br><br>
+
+  
+
 - 👯 I’m looking to collaborate on ...
+
+  <br>
+
+
 - 🤔 I’m looking for help with ...
+
+  <br>
+
+
 - 💬 Ask me about ...
+
+  <br>
+
+
 - 📫 How to reach me: ...
+
+  <br>
+  
+
 - 😄 Pronouns: ...
+
+  <br>
+
+
 - ⚡ Fun fact: ...
+
+
+  <br>
 
