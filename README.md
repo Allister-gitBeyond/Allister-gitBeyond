@@ -1,4 +1,6 @@
-## Hi there 👋 
+## Hi there   
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 **Allister-gitBeyond/Allister-gitBeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,3 +63,16 @@ ________________________________________________________________________________
 
   <br>
 
+
+
+
+  ![BinaryTree](https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png)
+
+
+|        |        |        |        |        |        |        |        |        |        |
+|------|------|------|------|------|------|------|------|------|------|
+|        |        |        |        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |        |        |        |
+|        |        |        |        |        |        |        |        |        |        |
