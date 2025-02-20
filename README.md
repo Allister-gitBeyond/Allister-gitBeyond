@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on ...
 
-  > Refracturing tetris arcade games built in
+  > React and Express Web Application
   > 
     >                                           JavaScript
     >                                           HTML
