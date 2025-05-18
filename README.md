@@ -16,7 +16,8 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on ...
 
   > React and Express Web Application
-  > 
+
+  > Projects and experience with
     >     JavaScript
     >     HTML
     >     CSS
