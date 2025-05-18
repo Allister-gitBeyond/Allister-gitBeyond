@@ -17,9 +17,14 @@ ________________________________________________________________________________
 
   > React and Express Web Application
   > 
-    >                                           JavaScript
-    >                                           HTML
-    >                                           CSS
+    >     JavaScript
+    >     HTML
+    >     CSS
+    >     CSS Tailwind 
+    >     SQL Alchemy ORM 
+    >     Alembic Database Migrations 
+    >     Flask
+    >     Django 
 
   <br><br>
 
