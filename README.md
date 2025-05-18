@@ -17,13 +17,15 @@ ________________________________________________________________________________
 
   > React and Express Web Application
 
-  > Projects and experience with
+  > Projects and experience with:
+
     >     JavaScript
     >     HTML
     >     CSS
-    >     CSS Tailwind 
+    >     CSS Tailwind  
     >     SQL Alchemy ORM 
     >     Alembic Database Migrations 
+    >     Python 
     >     Flask
     >     Django 
 
